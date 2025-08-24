@@ -1,0 +1,42 @@
+Unnamed: 0,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4,Precaution1_Hindi,Precaution2_Hindi,Precaution3_Hindi,Precaution4_Hindi
+0,Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up,जलन को रोकें,नजदीकी अस्पताल से संपर्क करें,दवा लेना बंद करें,फॉलो अप करें
+1,Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out,नजदीकी अस्पताल से संपर्क करें,तेलिय भोजन से बचें,नॉन वेज भोजन से परहेज़ करें,मच्छरों से बचें
+2,Allergy,apply calamine,cover area with bandage,,use ice to compress itching,कैलामाइन लगाएं,क्षेत्र को पट्टी से ढकें,कोई उपाय नहीं,खुजली पर बर्फ लगाएँ
+3,Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep,तनाव कम करें,व्यायाम करें,स्वस्थ भोजन करें,अच्छी नींद लें
+4,Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths,गर्म साबुन वाले पानी से हाथ धोएं,दबाव डालकर खून रोकें,डॉक्टर से परामर्श करें,नमक वाले स्नान करें
+5,GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise,तेल-मसालेदार भोजन से बचें,खाने के बाद लेटने से बचें,स्वस्थ वजन बनाए रखें,व्यायाम करें
+6,Chronic cholestasis,cold baths,anti itch medicine,consult doctor,eat healthy,ठंडे पानी से नहाएं,खुजली-रोधी दवा लें,डॉक्टर से परामर्श करें,स्वस्थ भोजन करें
+7,hepatitis A,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication,नजदीकी अस्पताल से संपर्क करें,हाथ अच्छे से धोएं,तेलिय और मसालेदार भोजन से बचें,दवा लें
+8,Osteoarthristis,acetaminophen,consult nearest hospital,follow up,salt baths,एसिटामिनोफेन लें,नजदीकी अस्पताल से संपर्क करें,फॉलो अप करें,नमक वाले स्नान करें
+9,(vertigo) Paroymsal  Positional Vertigo,lie down,avoid sudden change in body,avoid abrupt head movment,relax,लेट जाएं,शरीर में अचानक बदलाव से बचें,अचानक सिर की हरकत से बचें,आराम करें
+10,Hypoglycemia,lie down on side,check in pulse,drink sugary drinks,consult doctor,बगल करवट लेटें,नाड़ी जाँच करें,मीठे पेय पिएं,डॉक्टर से सलाह लें
+11,Acne,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products,दिन में दो बार स्नान करें,मसालेदार और चिकना भोजन न खाएं,पानी खूब पिएं,बहुत सारे उत्पादों से बचें
+12,Diabetes ,have balanced diet,exercise,consult doctor,follow up,संतुलित आहार लें,व्यायाम करें,डॉक्टर से परामर्श करें,फॉलो अप करें
+13,Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor,गर्म पानी में प्रभावित जगह भिगोएं,एंटीबायोटिक दवा लें,गीले कपड़े से पपड़ी हटाएं,डॉक्टर से सलाह लें
+14,Hypertension ,meditation,salt baths,reduce stress,get proper sleep,ध्यान करें,नमक वाले पानी से स्नान करें,तनाव कम करें,अच्छी नींद लें
+15,Peptic ulcer diseae,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol,तेल-मसालेदार भोजन से बचें,प्रोबायोटिक खाद्य पदार्थ खाएं,दूध का सेवन बंद करें,शराब सीमित करें
+16,Dimorphic hemmorhoids(piles),avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice,तेल-मसालेदार भोजन से बचें,विच हेज़ल का उपयोग करें,गर्म पानी और एप्सम साल्ट से स्नान करें,एलोवेरा का रस पिएँ
+17,Common Cold,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check,विटामिन C युक्त पेय पिएं,भाप लें,ठंडी चीज़ें खाने से बचें,बुखार पर नियंत्रण रखें
+18,Chicken pox,use neem in bathing ,consume neem leaves,take vaccine,avoid public places,नहाने में नीम का उपयोग करें,नीम की पत्तियां खाएं,टीका लगवाएं,सार्वजनिक स्थानों से बचें
+19,Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor,गर्म या ठंडी सिकाई करें,व्यायाम करें,ओटीसी दर्द निवारक लें,डॉक्टर से सलाह लें
+20,Hyperthyroidism,eat healthy,massage,use lemon balm,take radioactive iodine treatment,स्वस्थ भोजन करें,मालिश करें,लेमन बाम का उपयोग करें,रेडियोधर्मी आयोडीन उपचार लें
+21,Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics,भरपूर पानी पिएं,विटामिन C का सेवन बढ़ाएं,क्रैनबेरी जूस पिएं,प्रोबायोटिक्स लें
+22,Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long,लेटकर पैर ऊँचे रखें,मरहम/क्रीम लगाएं,नसों पर दबाव डालें,लंबे समय तक खड़े न रहें
+23,AIDS,avoid open cuts,wear ppe if possible,consult doctor,follow up,खुले घाव से बचें,संभव हो तो PPE पहनें,डॉक्टर से परामर्श करें,फॉलो अप करें
+24,Paralysis (brain hemorrhage),massage,eat healthy,exercise,consult doctor,मालिश करें,स्वस्थ भोजन करें,व्यायाम करें,डॉक्टर से सलाह लें
+25,Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor,medication,उच्च कैलोरी वाली सब्जियां खाएं,एंटीबायोटिक थेरेपी लें,डॉक्टर से परामर्श करें,दवा लें
+26,Hepatitis B,consult nearest hospital,vaccination,eat healthy,medication,नजदीकी अस्पताल से संपर्क करें,टीकाकरण करवाएं,स्वस्थ भोजन करें,दवा लें
+27,Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths,दिन में दो बार स्नान करें,स्नान के पानी में डिटॉल या नीम का प्रयोग करें,संक्रमित जगह को सूखा रखें,साफ कपड़े पहनें
+28,Hepatitis C,Consult nearest hospital,vaccination,eat healthy,medication,नजदीकी अस्पताल से संपर्क करें,टीकाकरण करवाएं,स्वस्थ भोजन करें,दवा लें
+29,Migraine,meditation,reduce stress,use poloroid glasses in sun,consult doctor,ध्यान करें,तनाव कम करें,धूप में पोलरॉइड चश्मा पहनें,डॉक्टर से सलाह लें
+30,Bronchial Asthma,switch to loose cloothing,take deep breaths,get away from trigger,seek help,ढीले कपड़े पहनें,गहरी सांस लें,कारण से दूर रहें,मदद लें
+31,Alcoholic hepatitis,stop alcohol consumption,consult doctor,medication,follow up,शराब पीना बंद करें,डॉक्टर से सलाह लें,दवा लें,फॉलो अप करें
+32,Jaundice,drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication,भरपूर पानी पिएं,मिल्क थिसल का सेवन करें,फल और फाइबर युक्त भोजन करें,दवा लें
+33,Hepatitis E,stop alcohol consumption,rest,consult doctor,medication,शराब पीना बंद करें,आराम करें,डॉक्टर से परामर्श करें,दवा लें
+34,Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated,पपीते के पत्तों का रस पिएं,मसालेदार और चिकना भोजन न खाएं,मच्छरों से बचें,हाइड्रेटेड रहें
+35,Hepatitis D,consult doctor,medication,eat healthy,follow up,डॉक्टर से सलाह लें,दवा लें,स्वस्थ भोजन करें,फॉलो अप करें
+36,Heart attack,call ambulance,chew or swallow asprin,keep calm,,एम्बुलेंस बुलाएं,एस्पिरिन चबाएं या निगलें,शांत रहें,नमक
+37,Pneumonia,consult doctor,medication,rest,follow up,डॉक्टर से सलाह लें,दवा लें,आराम करें,फॉलो अप करें
+38,Arthritis,exercise,use hot and cold therapy,try acupuncture,massage,व्यायाम करें,गर्म और ठंडी सिकाई करें,एक्यूपंक्चर आज़माएं,मालिश करें
+39,Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating,कुछ समय तक ठोस भोजन न खाएं,छोटे-छोटे घूंट पानी पिएं,आराम करें,धीरे-धीरे खाना शुरू करें
+40,Tuberculosis,cover mouth,consult doctor,medication,rest,मुंह ढकें,डॉक्टर से सलाह लें,दवा लें,आराम करें
