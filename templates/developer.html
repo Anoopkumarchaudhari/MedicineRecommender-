@@ -52,6 +52,7 @@
       .hero h1 {
         font-size: 2.5rem;
         font-weight: bold;
+        color:#E6EBEA;
         margin-bottom: 0.5rem;
         color: #00ffcc;
       }
@@ -62,6 +63,7 @@
       .card {
         background: #1e1e2f;
         border-radius: 15px;
+        color:#E6EBEA;
       }
       .card img {
         width: 120px;
@@ -69,6 +71,12 @@
         object-fit: cover;
         border-radius: 50%;
         margin: 1rem auto;
+        color:#E6EBE2;
+
+      }
+      .card a{
+      border-radius : 20%;
+      background:#E6EBE2;
       }
       footer {
         background: #212529;
@@ -129,7 +137,7 @@
             <img src="{{ url_for('static', filename='anoop.png') }}" alt="Developer Photo">
             <div class="card-body">
               <h4 class="card-title">Anoop Kumar</h4>
-              <p class="text-muted">Data Scientist</p>
+              <p class="card-text">Data Scientist</p>
               <p class="card-text">Specialized in Flask, Python, and machine learning applications.</p>
               <div class="d-flex justify-content-center gap-3 mt-3">
                 <a href="#" class="text-dark"><i class="bi bi-github"></i></a>
