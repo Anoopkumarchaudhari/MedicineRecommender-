@@ -17,6 +17,7 @@ load_svc = pickle.load(open("models/svc.pkl",'rb'))
 app=Flask(__name__)
 
 # helper function
+
 def helper(dis):
     desc = description[description['Disease'] == dis]['Description']
     desc = " ".join([w for w in desc])
